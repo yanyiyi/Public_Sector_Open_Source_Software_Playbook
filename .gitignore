@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# macOS system directories
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.TemporaryItems/
+__MACOSX/
