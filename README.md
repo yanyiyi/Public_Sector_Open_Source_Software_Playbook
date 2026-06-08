@@ -10,10 +10,11 @@
 
 本專案目前提供正體中文與英文版本，並同時保留 Markdown 與 PDF 兩種格式。Markdown 版本適合在可解析 MD 格式的地方，包含但不限於 GitHub 上閱讀、比對、翻譯維護與無障礙輔助工具解析；PDF 版本則保留固定版面，較適合列印、傳閱與依頁碼引用。就後續發布與更新說明，請參考 [RELEASE.md](RELEASE.md)。
 
-| 語言 | Markdown | PDF | 說明 |
-| --- | --- | --- | --- |
-| 正體中文 | [公部門開源軟體應用參考手冊.md](公部門開源軟體應用參考手冊.md) | [公部門開源軟體應用參考手冊.pdf](公部門開源軟體應用參考手冊.pdf) | 原文基準版本，作為內容修訂與對照的主要依據。 |
-| English | [English_Public_Sector_Open_Source_Software_Playbook.md](English_Public_Sector_Open_Source_Software_Playbook.md) | [English_Public_Sector_Open_Source_Software_Playbook.pdf](English_Public_Sector_Open_Source_Software_Playbook.pdf) | 英文對照版本，維持與正體中文版本可對應的章節與附錄結構。 |
+| 項目 | 正體中文 | English |
+| --- | --- | --- |
+| Markdown | [公部門開源軟體應用參考手冊.md](公部門開源軟體應用參考手冊.md) | [English_Public_Sector_Open_Source_Software_Playbook.md](English_Public_Sector_Open_Source_Software_Playbook.md) |
+| PDF | [公部門開源軟體應用參考手冊.pdf](公部門開源軟體應用參考手冊.pdf) | [English_Public_Sector_Open_Source_Software_Playbook.pdf](English_Public_Sector_Open_Source_Software_Playbook.pdf) |
+| 說明 | 原文基準版本，作為內容修訂與對照的主要依據。 | 英文對照版本，維持與正體中文版本可對應的章節與附錄結構。 |
 
 ---
 
@@ -29,7 +30,8 @@ The Ministry of Digital Affairs, in order to convey open source concepts to publ
 
 This project currently provides Traditional Chinese and English versions, with both Markdown and PDF formats. The Markdown version is suitable in environments that can parse MD format, including but not limited to reading on GitHub, comparison, translation maintenance, and parsing by accessibility assistive tools; the PDF version preserves a fixed layout and is more suitable for printing, circulation, and page-number citations. For subsequent release and update notes, see [RELEASE.md](RELEASE.md).
 
-| Language | Markdown | PDF | Notes |
-| --- | --- | --- | --- |
-| Traditional Chinese | [公部門開源軟體應用參考手冊.md](公部門開源軟體應用參考手冊.md) | [公部門開源軟體應用參考手冊.pdf](公部門開源軟體應用參考手冊.pdf) | Source-language baseline and primary basis for content revision and comparison. |
-| English | [English_Public_Sector_Open_Source_Software_Playbook.md](English_Public_Sector_Open_Source_Software_Playbook.md) | [English_Public_Sector_Open_Source_Software_Playbook.pdf](English_Public_Sector_Open_Source_Software_Playbook.pdf) | Aligned English version that keeps chapters and appendices corresponding to the Traditional Chinese version. |
+| Item | Traditional Chinese | English |
+| --- | --- | --- |
+| Markdown | [公部門開源軟體應用參考手冊.md](公部門開源軟體應用參考手冊.md) | [English_Public_Sector_Open_Source_Software_Playbook.md](English_Public_Sector_Open_Source_Software_Playbook.md) |
+| PDF | [公部門開源軟體應用參考手冊.pdf](公部門開源軟體應用參考手冊.pdf) | [English_Public_Sector_Open_Source_Software_Playbook.pdf](English_Public_Sector_Open_Source_Software_Playbook.pdf) |
+| Notes | Source-language baseline and primary basis for content revision and comparison. | Aligned English version that keeps chapters and appendices corresponding to the Traditional Chinese version. |
