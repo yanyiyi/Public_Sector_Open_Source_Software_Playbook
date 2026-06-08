@@ -7,9 +7,9 @@
 4. 開源軟體之永續經營。
 
 ---
-# Sector Open Source Software Playbook
+# Public Sector Open Source Software Playbook
 
-The Ministry of Digital Affairs, in order to convey open source concepts to public sector agencies nationwide and to promote the deep adoption and widespread understanding of open source knowledge within government institutions—thereby enabling flexible use of open source software for system planning, development, and implementation—plans to launch the Sector Open Source Software Playbook in 2026. The contents of the playbook are outlined as follows:
+The Ministry of Digital Affairs, in order to convey open source concepts to public sector agencies nationwide and to promote the deep adoption and widespread understanding of open source knowledge within government institutions—thereby enabling flexible use of open source software for system planning, development, and implementation—plans to launch the Public Sector Open Source Software Playbook in 2026. The contents of the playbook are outlined as follows:
 1. An introduction to open source software, including its development background, international trends and applications, as well as basic concepts and types of licensing terms.
 2. Evaluation of open source software adoption, including usage benefits and risk assessment, along with an explanation of governance frameworks and models for adopting agencies.
 3. Guidance on the adoption of open source software, covering key considerations across stages such as requirements, design, development, testing, deployment, and acceptance, as well as the release of development results to foster an open source ecosystem.
